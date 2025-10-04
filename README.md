@@ -1,1 +1,1 @@
-# trip-pins
+# trippins
